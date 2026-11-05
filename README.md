@@ -243,6 +243,6 @@ This repository represents my continuous journey of learning and improving my we
 
 **Author:** Pratoy Barua
 
-**GitHub:** [Your GitHub Profile](https://github.com/)
+**GitHub:** [https://github.com/Pratoy-barua]
 
 ⭐ If you find this repository useful, feel free to explore and learn along with me!
