@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>07_Table</title>
+        
+    </head>
+      
+      <style>
+        table, th, td{
+            border: 2px solid rgb(0, 0, 0);
+            border-collapse: collapse;
+            background-color: rgb(79, 244, 33);
+            border-radius: 100px;
+            border-style: dotted;
+        }
+        th{
+            text-align: left;
+        }
+        td{
+            text-align: center;
+        }
+        </style>
+    
+    <body>
+      
+        <!---
+        <table> - defines the table container
+        <tr> - defines a table row
+        <th> - defines a header cell
+        <td> - defines a standard data cell
+            colspan="2" one header with two columns
+        -->
+
+        <table style="width: 100%;">
+            <caption>Student details</caption>
+            <tr>
+                <th>Name</th>
+                <th style="width: 20%;">Id</th>
+                <th>Depertment</th>
+            </tr>
+            <tr>
+                <td>Pratoy</td>
+                <td>0112330398</td>
+                <td>CSE</td>
+            </tr>
+            <tr>
+                <td>Waled</td>
+                <td>0112330400</td>
+                <td>CSE</td>
+            </tr>
+            
+        </table>
+    </body>
+</html>
